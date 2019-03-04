@@ -46,7 +46,7 @@ A turn consists of the following steps:
 - The player who is sitting on your right then also puts one Fragment token under one of the remaining three Transaction tokens.
 - Draw the top card of the stack that is matching your Interface Port number and put it near your Identity card face-up. It is important to store each pile of cards with different values seperately and side by side for clarity.
 - If the drawn card has a skull symbol on it, take a -1 Malware card and shuffle it in any Data card stack. If a stack is empty, you cannot put any malware in that stack.
-- Resolve the transaction:
+- Resolve the Transaction:
   - If your guess of the Data card value was right, take both Fragment tokens and add them to your pile.
   - If neither player guessed right, the tokens go to their pile next to the Interface tiles.
   - If your opponent guessed right, then he takes both Fragment tokens and adds them to his pile.
