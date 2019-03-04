@@ -2,15 +2,15 @@
 Development repo for Hack-off! A fast paced set collection game for 1 to 4 competing hackers!
 
 # Component list:
-- 6  two-sided Hacker Identity cards         (will be referred as Identity cards from now on)
-- 12 two-sided Corporate Interface tiles     (will be referred as Interface tiles from now on)
-- 36 Corporate Data cards, 1 to 6, 6 of each (will be referred as Data cards from now on)
-- 12 Malware cards, -1 and -2, 6 of each     (will be referred as Malware cards from now on)
-- 6  two-sided Interface Port tokens         (will be referred as Interface Port tokens from now on)
-- 4  two-sided Interface Bridge tokens       (will be referred as Interface Bridge tokens from now on)
-- 4  Data Transaction tokens                 (will be referred as Transaction tokens from now on)
-- 24 Data Fragment tokens                    (will be referred as Fragment tokens from now on)
-- 1  Rulebook                                (with an achievement sticker page!)
+- 6  two-sided Hacker Identity cards              (will be referred as Identity cards from now on)
+- 21 Corporate Interface tiles                    (will be referred as Interface tiles from now on)
+- 36 Corporate Data cards, from 1 to 6, 6 of each (will be referred as Data cards from now on)
+- 12 Malware cards, -1 and -2, 6 of each          (will be referred as Malware cards from now on)
+- 6  two-sided Interface Port tokens              (will be referred as Interface Port tokens from now on)
+- 4  two-sided Interface Bridge tokens            (will be referred as Interface Bridge tokens from now on)
+- 4  Data Transaction tokens                      (will be referred as Transaction tokens from now on)
+- 24 Data Fragment tokens                         (will be referred as Fragment tokens from now on)
+- 1  Rulebook                                     (with an achievement sticker page!)
 
 # Introduction:
 A corporation hired you and some other hackers to compete in a race, which the object is to gather information from another rival corporation. You start with little information about the corp and everyone else is gathering as much data as they can. The winner takes all the money while others dissapear into the shadows waiting for the next big game. Will you win the prize, or will you be one of the hackers who lurk in the deep web?
@@ -24,7 +24,7 @@ When the last Data card is drawn, the game ends immediately. You sum up all the 
 # Setup:
 - Deal a random Identity card to each player random side face-up.
 - Give each player 2 Fragment tokens.
-- Shuffle Interface tiles and place 9 of them on the board random face-up in a 3x3 grid. Put the rest of them to the game box, you won't be using them this game.
+- Place 9 Interface tiles on the board in a 3x3 grid. Put the rest of them to the game box, you won't be using them this game.
 - Seperate all Data cards according to their values, and create 6 stacks with them containing values from 1 to 6.
 Notice that one of each data values contain a skull symbol, these must be put into 6 different stacks for gameplay purposes.
 Put them near the Interface tiles face-down side by side.
