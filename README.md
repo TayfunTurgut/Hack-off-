@@ -54,8 +54,15 @@ A turn consists of the following steps:
   - If neither player guessed right, the cards go to their pile next to the Interface cards.
   - If your opponent guessed right, then he takes both Fragments and adds them to his pile.
   - If any of the players guess a Malware and win, they take one Fragment from the other player in addition to the Data Fragments under the Transaction Trackers.
+  
+When a player draws the last Data card of a stack, its Data Depletion card triggers:
+- Put 3 Fragments from pile under a Transaction Tracker: You take 3 Fragments from its pile and put them under a Transaction Tracker of your choice. In the next Transaction phase, the winner takes them in addition of the Fragment he won from the other player.
+- Put an Interface Bridge on the board: Choose two Interface cards and put Interface Bridges of the same color under them. From now on, whenever one of the two Interface cards rotate, the other one gets rotated 90° clockwise.
+- Flip your Identity to the other side: The player who removed the last Data card from this stack must flip their Identity to its reverse side, altering the reward of the Identity to either the safe or risky side.
 
 # End of the game:
+
+
 
 # Achievement system:
 
