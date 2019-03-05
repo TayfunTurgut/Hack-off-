@@ -1,23 +1,29 @@
-- Name
-  - Side A:
-  - Side B:
+- Alias: "Trasher"
+  -Requirement: Collect 5/4/3 or more Malware.
+  - Side A: If you succeed, gain 11 points.
+  - Side B: If you succeed, gain 16 points. If you fail, lose 5 points.
   
-- Name
-  - Side A:
-  - Side B:
+- Alias: "Sniffer"
+  -Requirement: Successfully sniff 12/9/6 Transactions.
+  - Side A: If you succeed, gain 11 points.
+  - Side B: If you succeed, gain 16 points. If you fail, lose 5 points.
   
-- Name
-  - Side A:
-  - Side B:
+ - Alias: "Collector"
+  -Requirement: Get a 4 set bonus on a Data card.
+  - Side A: If you succeed, gain 11 points.
+  - Side B: If you succeed, gain 16 points. If you fail, lose 5 points.
   
-- Name
-  - Side A:
-  - Side B:
+ - Alias: "Scraper"
+  -Requirement: Take the last Data card of two stacks.
+  - Side A: If you succeed, gain 11 points.
+  - Side B: If you succeed, gain 16 points. If you fail, lose 5 points.
   
-- Name
-  - Side A:
-  - Side B:
+ - Alias: "Brain"
+  -Requirement: Shuffle 7/6/5 Malware to Data stacks.
+  - Side A: If you succeed, gain 11 points.
+  - Side B: If you succeed, gain 16 points. If you fail, lose 5 points.
   
-- Name
-  - Side A:
-  - Side B:
+ - Alias: "Frags"
+  -Requirement: Get no more than 3 set bonus on a Data card.
+  - Side A: If you succeed, gain 16 points.
+  - Side B: If you succeed, gain 22 points. If you fail, lose 6 points.
