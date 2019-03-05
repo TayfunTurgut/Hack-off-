@@ -10,7 +10,7 @@ Development repo for Hack-off! A fast paced set collection game for 1 to 4 compe
 - 8  Data Depletion cards
 - 4  Interface Bridges
 - 4  Transaction Trackers
-- 24 Data Fragments
+- 36 Data Fragments
 - 1  Rulebook (with an achievement sticker page!)
 
 # Introduction:
